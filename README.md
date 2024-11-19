@@ -1,0 +1,1 @@
+An app script that when selected will check that an 'old url' will redirect to a 'new url' & will flag any errors such as a 404, 200, 301. It will give the status, the redirect chain, the final URL, all the error, and the final status code.
